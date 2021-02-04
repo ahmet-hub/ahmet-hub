@@ -8,4 +8,10 @@ I consider myself a realistic, thorough thinker, researcher and likes to learn.
 
 I'm currently working on my project. In this project I'm using .Net Core and Vue Js.
 
+How to find me?
+
+Email: ahmetyardimci98@gmail.com
+Twitter: https://twitter.com/pekihocam
+Linkedin: https://www.linkedin.com/in/ahmet-yardimci-b8594b16a/
+
 
